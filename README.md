@@ -1,9 +1,8 @@
-@@ -1,7 +1,8 @@
 # Ex. No : 1	
 # IMPLEMENTATION OF SYMBOL TABLE 
 ## Name :B Harshala Reddy
 ## Register Number : 212224040050
-## Date : 26-02-2026
+## Date : 10-03-2026
 
 ## AIM   
 To write a C program to implement a symbol table.
@@ -82,9 +81,7 @@ return 0;
 ```
 
 ## OUTPUT 
-
 <img width="744" height="511" alt="Screenshot 2026-02-26 160046" src="https://github.com/user-attachments/assets/9f67280e-6878-4ff2-9102-bedb40476585" />
-
 
 ## RESULT
 The program to implement a symbol table is executed and the output is verified.
